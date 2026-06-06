@@ -25,17 +25,17 @@
 
 ---
 
-## 💡 Who I Am & What I Do
+## 💡 Professional Profile
 
-> **"Most companies have terabytes of data — but struggle to extract ROI from it. I solve that problem."**
+> **"I help organizations convert complex data into predictable revenue, reliable operations, and scalable AI products."**
 
-I'm a **Data Scientist and AI Engineer** currently pursuing a BS in Data Science at GIFT University (2023–2027), Lahore, Pakistan. I specialize in building **production-grade ML systems** that transform raw business data into measurable outcomes.
+I'm a **Data Scientist and AI Systems Architect** with multi-year experience building enterprise-grade machine learning and SaaS solutions across healthcare, retail, industrial IoT, and e-commerce.
 
-Not research prototypes. Not Kaggle notebooks that gather dust. **Real systems, deployed in production, delivering value.**
+I design and deploy production ML systems with secure APIs, explainable decision pipelines, and operational monitoring — not prototypes or academic experiments.
 
-My edge is full-stack ownership — I take a problem from raw data all the way to a live API, deployed dashboard, and stakeholder-ready report. Every model I ship is backed by SHAP explainability so business teams can trust and act on predictions.
+My work focuses on aligning AI with commercial outcomes: revenue uplift, cost reduction, process reliability, and business trust.
 
-### What I'm Best At
+### What I Deliver
 
 ```
 Business Problem  →  Data Architecture  →  ML Model  →  Production API  →  Business Outcome
