@@ -1,308 +1,438 @@
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║         IBADAT ALI — GITHUB PROFILE README                       ║
+║  Place this file at: github.com/Ibadat-Ali86/Ibadat-Ali86        ║
+║  (Create a repo named exactly "Ibadat-Ali86" to activate)        ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,100:16213e&height=220&section=header&text=Ibadat%20Ali&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Production%20ML%20Systems&descAlignY=60&descSize=18&descColor=94a3b8" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirzaibadatali)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ibadatali)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibadcodes@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ibadat--Ali86-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibadat-Ali86)
+<!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
+<a href="https://github.com/Ibadat-Ali86">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,30:0a0a2e,60:0d1b4b,100:0a3d7a&height=260&section=header&text=Ibadat%20Ali&fontSize=72&fontColor=E2E8F0&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist%20%E2%80%94%20AI%20Engineer%20%E2%80%94%20Production%20ML%20Systems&descAlignY=58&descSize=19&descColor=7DD3FC" alt="Ibadat Ali — Data Scientist & AI Engineer"/>
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ibadat-Ali86&color=0ea5e9&style=flat-square&label=Profile+Views)
-&nbsp;
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fibadat-ali86&style=plastic)](https://rankistan.dev)
-&nbsp;
-[![Certifications](https://img.shields.io/badge/Certifications-Claude_101_%7C_AI_Fluency-7c3aed?style=flat-square)](./achievements/certifications.md)
-&nbsp;
-![Location](https://img.shields.io/badge/📍_Lahore,_Pakistan-Available_Globally-16a34a?style=flat-square)
+<!-- ═══════════════════════ LIVE RANK BADGE ═══════════════════════ -->
+<!-- This badge auto-updates as your rank improves — no action needed -->
+<a href="https://rankistan.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fibadat-ali86&style=for-the-badge" alt="Rankistan Live Rank"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════════ SOCIAL LINKS ═══════════════════════ -->
+<a href="https://www.linkedin.com/in/mirzaibadatali">
+  <img src="https://img.shields.io/badge/LinkedIn-Ibadat_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://www.kaggle.com/ibadatali">
+  <img src="https://img.shields.io/badge/Kaggle-ibadatali-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF" alt="Kaggle"/>
+</a>&nbsp;
+<a href="mailto:ibadcodes@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ibadcodes@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+</a>&nbsp;
+<a href="https://wa.me/923289799156">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B92_328_979_9156-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════════ LIVE METRICS ═══════════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=Ibadat-Ali86&color=0ea5e9&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Open_To-Full--time_%7C_Contract_%7C_Consulting-16a34a?style=flat-square" alt="Availability"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📍_Lahore_Pakistan-Remote_%7C_Global-64748b?style=flat-square" alt="Location"/>
 
 </div>
 
 ---
 
-## 💡 Professional Profile
+<!-- ═══════════════════════ POSITIONING ═══════════════════════ -->
 
-> **"I help organizations convert complex data into predictable revenue, reliable operations, and scalable AI products."**
+<div align="center">
 
-I'm a **Data Scientist and AI Systems Architect** with multi-year experience building enterprise-grade machine learning and SaaS solutions across healthcare, retail, industrial IoT, and e-commerce.
+### *"Most companies have terabytes of data — and zero ROI from it."*
+### *I fix that. Not with prototypes. With production systems.*
 
-I design and deploy production ML systems with secure APIs, explainable decision pipelines, and operational monitoring — not prototypes or academic experiments.
+</div>
 
-My work focuses on aligning AI with commercial outcomes: revenue uplift, cost reduction, process reliability, and business trust.
+I'm a **Data Scientist and AI Engineer** specializing in end-to-end production ML systems that generate measurable business outcomes. My work spans **predictive analytics**, **multimodal AI**, **demand forecasting**, and **clinical decision support** — from raw data pipelines through to deployed APIs, dashboards, and boardroom-ready metrics.
 
-### What I Deliver
+What separates my work:
+- **Full ownership** — I don't hand off at the notebook stage. I own the pipeline, the API, the deployment, and the business metric
+- **Explainability first** — Every model ships with SHAP attribution. No black boxes in production
+- **Constraint-aware engineering** — I've shipped AI for offline environments, low-bandwidth regions, and resource-limited hardware
+
+```python
+profile = {
+    "specialization":  "Production ML Systems · Multimodal AI · Predictive Analytics",
+    "industries":      ["Healthcare", "Retail", "Industrial/Manufacturing", "E-commerce"],
+    "stack_depth":     "Data pipeline → model → API → dashboard → business outcome",
+    "philosophy":      "A model that isn't deployed isn't a product — it's a science project",
+    "certifications":  ["Claude 101 (Anthropic)", "AI Fluency — Framework & Foundations"],
+    "contact":         "ibadcodes@gmail.com | +92 328 979 9156"
+}
+```
+
+---
+
+<!-- ═══════════════════════ BUSINESS IMPACT ═══════════════════════ -->
+
+## 📊 Delivered Business Impact
+
+<div align="center">
+
+| Domain | Problem Solved | Outcome |
+|--------|---------------|---------|
+| **Retail / Supply Chain** | Demand forecasting across 45 stores, 81 departments | **98.77% accuracy** — MAPE 0.98% on 421K records |
+| **Industrial / Aviation** | Unplanned engine failure costs | **$38,200 saved** per fleet cycle (30.6% reduction) |
+| **Healthcare** | Clinical decisions in zero-connectivity environments | **5 AI modules**, 15+ languages, PWA offline-first |
+| **E-commerce** | Automated pricing across 579K+ transactions | **R² 0.92** — 90% accuracy on premium SKUs |
+| **MedTech** | Multimodal diagnosis fusion | X-ray + lung audio + vitals → ranked differential |
+
+</div>
+
+---
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+
+## 🏗️ Production Projects
+
+> Each project is anchored to a real business problem, a measurable outcome, and a production deployment.
+
+---
+
+### 🏥 CareVision &nbsp;`Clinical AI · mHealth · PWA`
+
+**Business Problem:** 1B+ people receive care from community health workers (CHWs) who lack specialist access and diagnostic tools. Misdiagnosis rates in last-mile clinics run 30–50% for common conditions.
+
+**What I built:** A Gemini 2.0 Flash–powered, offline-first Progressive Web App that enables CHWs to interpret test strips, wound images, medication labels, and lab documents — in their local language, without internet.
 
 ```
-Business Problem  →  Data Architecture  →  ML Model  →  Production API  →  Business Outcome
-      ↑                                                                           ↑
-  I ask the right questions                                         I measure the right results
+Tech: React 18 · FastAPI · Gemini 2.0 Flash · PostgreSQL (Neon) · Docker · Vercel · Railway
+      Argon2id Auth · Workbox PWA · Dexie IndexedDB · i18next (15+ locales) · Pydantic v2
 ```
 
-| Strength | What It Means in Practice |
-|----------|--------------------------|
-| 🎯 **Business-First ML** | I frame every model as a P&L problem before writing a line of code |
-| 🔬 **Explainable AI** | SHAP-backed predictions — no black boxes in production |
-| 🚀 **End-to-End Ownership** | Data pipeline → model → API → dashboard → deployment |
-| ⚡ **Production Mindset** | Docker, CI/CD, async APIs, monitoring — not just Jupyter notebooks |
-| 🌍 **Constraint-Aware Design** | I've shipped systems for offline environments and low-bandwidth regions |
+[![Live Demo](https://img.shields.io/badge/▶_Live-carevision--chw.vercel.app-22c55e?style=flat-square&logo=vercel)](https://carevision-chw.vercel.app/landing)
+[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/01-carevision-clinical-ai.md)
+
+> **5 AI clinical modules** · **15+ languages** · JWT + Argon2id security · Deployed: Vercel + Railway + Neon
 
 ---
 
-## 📊 Business Impact Summary
+### ⚙️ SentinelIQ &nbsp;`Predictive Maintenance · Industrial AI · MLOps`
 
-| Problem Domain | Business Outcome | Metric |
-|---------------|-----------------|--------|
-| Retail demand forecasting | Stockout prevention & inventory optimization | **98.77% forecast accuracy** (MAPE 1.23%) |
-| Industrial predictive maintenance | Unplanned downtime prevention | **$38,200 cost savings** per fleet cycle |
-| E-commerce pricing | Automated pricing for 579K+ products | **R² = 0.92** on premium products |
-| Clinical AI in resource-limited settings | Offline diagnostic capability for CHWs | **5 AI modules**, 15+ languages, PWA |
-| Multimodal medical diagnosis | Specialist-quality reasoning at primary care level | Gemini fusion across X-ray + audio + vitals |
+**Business Problem:** Aviation MRO market is $90B globally. A single unplanned engine removal costs $500K–$2M. Time-based maintenance schedules ignore real sensor degradation signals — over-maintaining some engines while missing others.
 
----
+**What I built:** A TCN/BiLSTM ensemble that predicts exact Remaining Useful Life in engine cycles, flags sensor anomalies in real time, and computes a cost-minimum maintenance schedule via MILP optimization — with SHAP attribution on every alert.
 
-## 🏗️ Featured Projects
+```
+Tech: PyTorch 2.2 · SHAP DeepExplainer · PuLP (MILP) · FastAPI · Next.js 15 · PostgreSQL
+      Docker Compose · NGINX · scikit-learn · GitHub Actions CI/CD
+```
 
-> Each project is documented with: the business problem, how it was solved, the technical architecture, and the measurable outcome.
+[![Live Demo](https://img.shields.io/badge/▶_Live-sentinel--iq--nasa.vercel.app-22c55e?style=flat-square&logo=vercel)](https://sentinel-iq-nasa.vercel.app)
+[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/02-sentineliq-predictive-maintenance.md)
 
----
-
-### 🏥 [CareVision — Clinical AI for Last-Mile Healthcare](./projects/01-carevision-clinical-ai.md)
-
-**The Business Problem:** Community health workers in low-resource regions make complex clinical decisions without specialist access. Misdiagnosis rates are high. Existing digital tools require stable internet — absent in these regions.
-
-**How I Solved It:** Built an offline-first, PWA-based clinical decision support system powered by Gemini 2.0 Flash multimodal AI. CHWs can scan test strips, wound images, and medication packaging with a phone camera and get structured clinical guidance — even without connectivity.
-
-[![Live Demo](https://img.shields.io/badge/Live-carevision--chw.vercel.app-22c55e?style=flat-square&logo=vercel)](https://carevision-chw.vercel.app/landing)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA_Offline--First-5A0FC8?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/Neon_PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-> **Impact:** 5 clinical AI modules · 15+ languages · Argon2id security · Deployed on Vercel + Railway + Neon
+> **RMSE 14.37 cycles** on NASA C-MAPSS benchmark · **$38,200 (30.6%) cost savings** · ~140ms inference P95
 
 ---
 
-### ⚙️ [SentinelIQ — Predictive Maintenance for Turbofan Engines](./projects/02-sentineliq-predictive-maintenance.md)
+### 📈 ForecastAI &nbsp;`Retail Analytics · SaaS · Demand Forecasting`
 
-**The Business Problem:** Aviation and industrial operators spend billions on either over-scheduled maintenance (wasteful) or unplanned failures (catastrophic). Sensor data exists but isn't being acted on intelligently.
+**Business Problem:** 3–4% of retail revenue lost annually to demand forecasting errors. Moving averages can't capture multi-level seasonality, holiday spikes (+30–60%), or economic signals like CPI and unemployment.
 
-**How I Solved It:** Built a TCN/LSTM ensemble that forecasts exact Remaining Useful Life (RUL) in engine cycles, flags anomalies in real time, and computes the cost-optimal maintenance window using Mixed Integer Linear Programming — with SHAP explanations for every alert.
+**What I built:** An end-to-end SaaS platform — Prophet + XGBoost + SARIMA + LSTM weighted ensemble — that ingests any retail CSV and produces forecasts, confidence intervals, scenario simulations, and executive PDF/Excel reports.
 
-[![Live Demo](https://img.shields.io/badge/Live-sentinel--iq--nasa.vercel.app-22c55e?style=flat-square&logo=vercel)](https://sentinel-iq-nasa.vercel.app)
-![PyTorch](https://img.shields.io/badge/PyTorch_2.2-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP_DeepExplainer-FF6B35?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MILP](https://img.shields.io/badge/PuLP_MILP_Scheduler-0ea5e9?style=flat-square)
+```
+Tech: XGBoost 2.0 · Prophet · SARIMA · TensorFlow LSTM · FastAPI · React 19 · Vite 5
+      TailwindCSS · Framer Motion · Chart.js · jsPDF · Docker · HuggingFace Spaces
+```
 
-> **Impact:** RMSE 14.37 cycles on NASA benchmark · **$38,200 (30.6%)** cost savings vs reactive models · ~140ms inference
+[![Live Demo](https://img.shields.io/badge/▶_Live-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/ibadatali/walmart-sales-forecasting-saas)
+[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/03-walmart-forecastai-saas.md)
 
----
-
-### 📈 [ForecastAI — Retail Demand Forecasting SaaS](./projects/03-walmart-forecastai-saas.md)
-
-**The Business Problem:** A 1% improvement in forecast accuracy translates to millions in savings for large retailers. Traditional moving-average methods ignore seasonality, holidays, and economic signals — leading to both stockouts and overstock.
-
-**How I Solved It:** Built a full-stack SaaS platform that trains a weighted Prophet + XGBoost + SARIMA + LSTM ensemble on any retail CSV, surfacing forecasts, confidence intervals, and a what-if scenario simulator — with PDF/Excel exports.
-
-[![Live Demo](https://img.shields.io/badge/Live-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/ibadatali/walmart-sales-forecasting-saas)
-![XGBoost](https://img.shields.io/badge/XGBoost_2.0-FF6600?style=flat-square)
-![Prophet](https://img.shields.io/badge/Prophet_(Meta)-5C6BC0?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow_LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-> **Impact:** **98.77% accuracy** (MAPE 0.98%) · **96% improvement** over baseline · 421,570 records · What-if scenario simulator
+> **98.77% accuracy** · **96% improvement** over baseline · 421,570 records · What-if scenario simulator
 
 ---
 
-### 🔬 [VITAL-LINK — Multimodal Medical Diagnosis Platform](./projects/04-vital-link-medical-diagnosis.md)
+### 🔬 VITAL-LINK &nbsp;`Multimodal AI · Medical Diagnosis · LLM Fusion`
 
-**The Business Problem:** Primary care physicians in underserved areas make diagnostic decisions based on single data points. Misdiagnosis rates for respiratory conditions are high when only symptoms are considered.
+**Business Problem:** Single-modality diagnostic AI misses clinical correlations. A physician correlates X-ray findings with breath sounds and vital signs simultaneously — AI tools haven't caught up.
 
-**How I Solved It:** Built a multimodal fusion platform that simultaneously analyzes chest X-rays, lung audio (crackles, wheezes, rhonchi), and vital signs through Gemini 2.0 Flash — producing ranked differential diagnoses with explainable reasoning traces.
+**What I built:** A three-modality fusion platform sending chest X-rays, lung audio features, and vital signs in a single Gemini 2.0 Flash call — producing ranked differential diagnoses with probability scores and a transparent reasoning trace.
 
-![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask_Backend-000000?style=flat-square&logo=flask&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js_Visualizations-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![jsPDF](https://img.shields.io/badge/PDF_Reports-jsPDF-red?style=flat-square)
+```
+Tech: Gemini 2.0 Flash (multimodal) · Flask · Chart.js 4.4 · jsPDF · Python 3.10+
+      Structured JSON prompting · Clinical reasoning trace architecture
+```
 
-> **Impact:** 3-modality fusion · 8 clinical condition presets · Risk stratification scoring · Full PDF reporting · *Google Gemini Hackathon 2026*
+[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/04-vital-link-medical-diagnosis.md)
 
----
-
-### 🛒 [Pakistan E-commerce Price Intelligence](./projects/05-pakistan-ecommerce-price-prediction.md)
-
-**The Business Problem:** E-commerce sellers manually price products based on intuition, leading to systematic underpricing of premium items and inconsistent margins across 100K+ SKUs.
-
-**How I Solved It:** Trained a Random Forest regressor on Pakistan's largest e-commerce dataset (579K+ transactions) that predicts unit price with R²=0.92 for premium products — deployed as a Flask web app for real-time pricing decisions.
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ibadatali/pakistan-ecommerce-price-reggression)
-![scikit-learn](https://img.shields.io/badge/scikit--learn_Random_Forest-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask_Production_API-000000?style=flat-square&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas_2.0-150458?style=flat-square&logo=pandas&logoColor=white)
-
-> **Impact:** R²=0.92 · 90% accuracy on premium products (PKR 10K+) · 579,254 transactions · Production Flask deployment
+> **3-modality fusion** (X-ray + lung audio + vitals) · 8 clinical condition presets · Risk stratification · *Google Gemini Hackathon 2026*
 
 ---
 
-### 🎓 [Evershine Academy — Full-Stack LMS](./projects/06-evershine-academy-lms.md)
+### 🛒 Pakistan Price Intelligence &nbsp;`E-commerce · Regression · Flask API`
 
-**The Business Problem:** Small-to-medium educational institutions in Pakistan can't afford Blackboard or Canvas subscriptions. They manage admissions, fees, attendance, and grades across disconnected spreadsheets and paper records.
+**Business Problem:** Pakistani e-commerce sellers manually price 100K+ SKUs without data-driven benchmarks — systematically underpricing premium items and missing margin optimization opportunities.
 
-**How I Solved It:** Built a self-hosted, open-source LMS with Next.js App Router and Prisma — covering the full student lifecycle from admissions to graduation, with multi-role dashboards, fee collection, timetabling, and PDF report generation.
+**What I built:** A Random Forest regression model trained on 579,254 actual transactions — deployed as a real-time Flask pricing API. Achieves R²=0.92 on premium products (PKR 10,000+).
 
-![Next.js](https://img.shields.io/badge/Next.js_App_Router-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+```
+Tech: scikit-learn 1.3 · Random Forest · Gradient Boosting · pandas 2.0 · Flask 3.0
+      joblib · matplotlib · seaborn · Kaggle Kernels
+```
 
-> **Impact:** 6 role-specific dashboards · Fee + attendance + academic modules · PDF exports · Self-hostable on any Node.js 20+ environment
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Full_Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ibadatali/pakistan-ecommerce-price-reggression)
+[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/05-pakistan-ecommerce-price-prediction.md)
+
+> **R² = 0.92** · 90% accuracy on premium SKUs · 579K+ transactions · Production Flask deployment
 
 ---
 
-## 🛠️ Production Tech Stack
+### 🎓 Evershine Academy LMS &nbsp;`EdTech · SaaS · Full-Stack`
+
+**Business Problem:** Small-medium educational institutions in Pakistan manage admissions, fees, attendance, and grades across disconnected spreadsheets — at zero data integrity and high administrative cost.
+
+**What I built:** A self-hosted, open-source LMS covering the full student lifecycle from application to graduation — with role-specific dashboards for administrators, teachers, students, parents, and accountants.
+
+```
+Tech: Next.js 15 App Router · TypeScript 5 · Prisma ORM · PostgreSQL · TailwindCSS
+      Server Components · Server Actions · PDF workflows · Multi-role RBAC
+```
+
+[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/06-evershine-academy-lms.md)
+
+> 6 role-specific dashboards · Fee + attendance + academic modules · Self-hostable · PDF report generation
+
+---
+
+<!-- ═══════════════════════ TECHNICAL EXPERTISE ═══════════════════════ -->
+
+## 🛠️ Technical Expertise
 
 <details>
-<summary><b>🤖 AI / Machine Learning</b></summary>
+<summary><b>🤖 Machine Learning & AI Engineering</b></summary>
+<br/>
 
-| Category | Technologies |
-|----------|-------------|
-| **Deep Learning** | PyTorch 2.2, TensorFlow 2.x / Keras, LSTM, TCN (Temporal Convolutional Networks) |
-| **Classical ML** | scikit-learn 1.4, XGBoost 2.0, Random Forest, Gradient Boosting |
-| **Time Series** | Prophet (Meta), SARIMA (statsmodels), Ensemble methods |
-| **LLM / Multimodal** | Google Gemini 2.0 Flash, multimodal prompt engineering |
-| **Explainability** | SHAP DeepExplainer, feature importance, LIME |
-| **Optimization** | PuLP (MILP), hyperparameter tuning (Optuna) |
-| **Anomaly Detection** | Isolation Forest, Autoencoder reconstruction error |
+**Deep Learning & Neural Networks**
+`PyTorch 2.2` `TensorFlow 2.x / Keras` `LSTM` `BiLSTM` `TCN (Temporal Convolutional Networks)` `Autoencoders` `Transformer architectures`
+
+**Classical Machine Learning**
+`scikit-learn 1.4` `XGBoost 2.0` `LightGBM` `CatBoost` `Random Forest` `Gradient Boosting` `SVM` `Elastic Net`
+
+**Time Series & Forecasting**
+`Prophet (Meta)` `SARIMA / SARIMAX` `statsmodels` `Ensemble methods` `Walk-forward validation` `Chronological splitting`
+
+**Large Language Models & Multimodal AI**
+`Google Gemini 2.0 Flash` `Multimodal prompt engineering` `Structured JSON output from LLMs` `Vision-language fusion` `RAG (Retrieval-Augmented Generation)`
+
+**Explainable AI (XAI)**
+`SHAP DeepExplainer` `SHAP TreeExplainer` `Feature importance analysis` `LIME` `Partial dependence plots`
+
+**Optimization & Operations Research**
+`PuLP (MILP)` `Linear programming` `Constraint optimization` `Fleet scheduling`
+
+**Anomaly Detection**
+`Isolation Forest` `Autoencoder reconstruction error` `Statistical process control`
 
 </details>
 
 <details>
-<summary><b>⚙️ Backend & APIs</b></summary>
+<summary><b>⚙️ MLOps & Data Engineering</b></summary>
+<br/>
 
-| Category | Technologies |
-|----------|-------------|
-| **API Frameworks** | FastAPI 0.111 (primary), Flask 3.0 |
-| **Auth & Security** | JWT (PyJWT HS256), Argon2id (argon2-cffi), RBAC |
-| **ORM & DB** | SQLAlchemy 2.0 (async), Prisma 5.x, Alembic migrations |
-| **Validation** | Pydantic v2, TypeScript schemas |
-| **Async Runtime** | asyncpg, aiosqlite, Uvicorn (ASGI) |
-| **Observability** | Pydantic Logfire, structured audit logging |
+**Pipeline & Workflow**
+`Feature stores` `Model versioning` `Experiment tracking` `A/B testing frameworks` `Drift detection`
 
-</details>
+**Data Processing**
+`pandas 2.2` `numpy` `scipy` `Polars` `Apache Spark (working knowledge)` `SQL (PostgreSQL, window functions, CTEs)`
 
-<details>
-<summary><b>🖥️ Frontend & UI</b></summary>
+**Feature Engineering**
+`Lag features` `Rolling window statistics` `Target encoding` `Embeddings` `Time-based features` `External signal integration`
 
-| Category | Technologies |
-|----------|-------------|
-| **Frameworks** | React 18/19, Next.js 15 (App Router) |
-| **Language** | TypeScript 5.x |
-| **Build Tools** | Vite 5, ESBuild |
-| **Styling** | TailwindCSS 3.4, Radix UI, Framer Motion |
-| **State** | Zustand 4.5 (persisted), React Context |
-| **Data Viz** | Chart.js 4.x, Recharts |
-| **i18n** | i18next 23 (15+ locales with AI prompt sync) |
-| **PWA / Offline** | vite-plugin-pwa, Workbox, Dexie (IndexedDB) |
+**Model Serving**
+`FastAPI async endpoints` `Batch inference` `ONNX export` `TorchServe (working knowledge)` `Model quantization`
+
+**Monitoring & Observability**
+`Pydantic Logfire` `Structured audit logging` `Performance dashboards` `Alerting pipelines`
 
 </details>
 
 <details>
-<summary><b>☁️ DevOps, Cloud & MLOps</b></summary>
+<summary><b>🖥️ Software Engineering & Backend</b></summary>
+<br/>
 
-| Category | Technologies |
-|----------|-------------|
-| **Containerization** | Docker, Docker Compose, multi-stage builds |
-| **CI/CD** | GitHub Actions, automated test pipelines |
-| **Reverse Proxy** | NGINX |
-| **Cloud Platforms** | Vercel (frontend CDN), Railway (backend), HuggingFace Spaces |
-| **Databases (Cloud)** | Neon (serverless PostgreSQL), Railway PostgreSQL |
-| **Deployment Patterns** | Zero-downtime deploys, environment-based config, secrets management |
+**API Development**
+`FastAPI 0.111` `Flask 3.0` `REST API design` `OpenAPI / Swagger` `Rate limiting` `CORS`
+
+**Auth & Security**
+`JWT (PyJWT HS256)` `Argon2id (GPU-resistant hashing)` `OAuth 2.0` `RBAC` `Input validation (Pydantic v2)`
+
+**Databases & ORM**
+`PostgreSQL` `SQLAlchemy 2.0 (async)` `Prisma 5.x` `Alembic migrations` `asyncpg` `Connection pooling` `Neon serverless`
+
+**Async & Performance**
+`Uvicorn (ASGI)` `asyncio` `Background tasks` `Connection pools` `Caching strategies`
 
 </details>
 
 <details>
-<summary><b>📊 Data Science Tooling</b></summary>
+<summary><b>🖥️ Frontend & Full-Stack</b></summary>
+<br/>
 
-| Category | Technologies |
-|----------|-------------|
-| **Data Processing** | pandas 2.2, numpy, scipy |
-| **Visualization** | matplotlib 3.8, seaborn |
-| **Notebooks** | Jupyter Lab, Kaggle Kernels |
-| **Feature Engineering** | Lag features, rolling windows, encoding pipelines |
-| **Validation** | Cross-validation, time-series splits, walk-forward validation |
+**Frameworks**
+`React 18/19` `Next.js 15 (App Router)` `TypeScript 5.x` `Vite 5`
+
+**UI & Styling**
+`TailwindCSS 3.4` `Radix UI` `Framer Motion 12` `CSS animations` `Glassmorphism`
+
+**State & Data**
+`Zustand 4.5` `React Context` `React Query` `Axios with interceptors`
+
+**Data Visualization**
+`Chart.js 4.x` `Recharts` `D3.js (working knowledge)` `Interactive dashboards`
+
+**PWA & Offline**
+`vite-plugin-pwa` `Workbox` `Service Workers` `Dexie (IndexedDB)` `Offline queue sync`
+
+**i18n**
+`i18next 23` `react-i18next` `AI prompt language synchronization` `15+ locale support`
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud, DevOps & Infrastructure</b></summary>
+<br/>
+
+**Containerization**
+`Docker` `Docker Compose` `Multi-stage builds` `Dockerfile optimization`
+
+**CI/CD**
+`GitHub Actions` `Automated testing pipelines` `Deploy-on-push workflows` `Environment management`
+
+**Cloud Platforms**
+`Vercel (CDN edge, SPA routing)` `Railway (Dockerized apps)` `Hugging Face Spaces` `Neon (serverless PostgreSQL)` `Google Cloud (AI Studio)` `AWS (working knowledge: EC2, S3, Lambda)`
+
+**Networking**
+`NGINX (reverse proxy, SSL termination)` `CORS configuration` `TLS enforcement` `API gateway patterns`
 
 </details>
 
 ---
+
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
 ## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibadat-Ali86&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibadat-Ali86&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8"/>
+<a href="https://github.com/Ibadat-Ali86">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Ibadat-Ali86&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7DD3FC&icon_color=38BDF8&text_color=94A3B8&ring_color=0ea5e9" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Ibadat-Ali86">
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibadat-Ali86&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7DD3FC&text_color=94A3B8&langs_count=8&hide=html,css" alt="Top Languages"/>
+</a>
 
-<br/><br/>
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ibadat-Ali86&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=38bdf8&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569)](https://github.com/Ibadat-Ali86)
+<a href="https://github.com/Ibadat-Ali86">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Ibadat-Ali86&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=38BDF8&ring=0ea5e9&fire=38bdf8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=475569&currStreakNum=7DD3FC&sideNums=7DD3FC" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Ibadat-Ali86">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ibadat-Ali86&bg_color=0d1117&color=7DD3FC&line=0ea5e9&point=38BDF8&area=true&hide_border=true" alt="Contribution Graph"/>
+</a>
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+<!-- ═══════════════════════ LIVE RANK ═══════════════════════ -->
 
-| Credential | Institution | Year |
-|-----------|-------------|------|
-| 🎓 **BS Data Science** (in progress) | GIFT University, Lahore, Pakistan | 2023 – 2027 |
-| 📜 **Certificate: Claude 101** | Anthropic | 2024 |
-| 📜 **Certificate: AI Fluency — Framework & Foundations** | — | 2024 |
-
----
-
-## 🤝 Who I Work With
-
-I'm most effective with organizations that have the following profile:
-
-✅ **You have data but unclear ROI** — You're collecting data but not extracting actionable value from it
-
-✅ **You need offline or low-connectivity ML** — Your users operate in environments without reliable internet
-
-✅ **You're scaling past Proof of Concept** — You've validated an idea and need a production-grade system
-
-✅ **You value explainability** — Stakeholders need to understand and trust the model's decisions
-
-✅ **Retail / E-commerce** — Demand forecasting, pricing optimization, churn prediction
-
-✅ **Healthcare / MedTech** — Clinical decision support, diagnostic AI, population health
-
-✅ **Industrial / Manufacturing** — Predictive maintenance, quality control, sensor analytics
-
----
-
-## 📬 Get In Touch
-
-I'm open to **full-time roles**, **contract/freelance projects**, and **research collaborations**.
+## 🏆 Live Developer Rank
 
 <div align="center">
+
+> This badge reflects my current ranking on [Rankistan](https://rankistan.dev) — it **updates automatically** as I ship more code, improve contributions, and advance technically. No manual refresh needed.
+
+<a href="https://rankistan.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fibadat-ali86&style=for-the-badge" alt="Rankistan Live Developer Rank Badge"/>
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════ WHAT I SOLVE ═══════════════════════ -->
+
+## 🎯 What I Solve — Industry Alignment
+
+I work best with organizations in one of these positions:
+
+**You have data but no clear ROI path**
+→ I design the ML system that converts your raw data into a measurable business metric — forecast accuracy, cost reduction, conversion rate, or operational efficiency.
+
+**You're scaling past a Proof of Concept**
+→ You've validated an idea in a notebook. I engineer it into a production system with proper APIs, monitoring, auth, and deployment infrastructure.
+
+**You need AI that works in constrained environments**
+→ Offline, low-bandwidth, low-latency, or multilingual requirements. I've shipped for all of these.
+
+**You want predictions your stakeholders can trust**
+→ Every model I deploy comes with SHAP explainability. Stakeholders see *why* the model made a prediction, not just what it predicted.
+
+| Industry | Specific Problems I Target |
+|----------|--------------------------|
+| **Retail / E-commerce** | Demand forecasting · Pricing optimization · Inventory intelligence · Churn prediction |
+| **Healthcare / MedTech** | Clinical decision support · Medical image analysis · Population health analytics |
+| **Industrial / Manufacturing** | Predictive maintenance · Quality control · Anomaly detection · Yield optimization |
+| **Financial Services** | Risk scoring · Fraud detection · Forecasting · Portfolio analytics |
+| **Education / EdTech** | Learning analytics · Platform development · Outcome prediction |
+
+---
+
+<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Focus |
+|--------------|--------|-------|
+| **Claude 101** | Anthropic | LLM fundamentals, prompt engineering, AI safety |
+| **AI Fluency — Framework & Foundations** | — | Organizational AI strategy, deployment frameworks |
+
+</div>
+
+---
+
+<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
+
+## 📬 Let's Build Something
+
+<div align="center">
+
+I'm available for **full-time roles**, **contract engagements**, and **consulting projects** globally.
 
 | | |
-|---|---|
-| 📧 **Primary Email** | [ibadcodes@gmail.com](mailto:ibadcodes@gmail.com) |
-| 📧 **Alternate Email** | [ibadatpro717@gmail.com](mailto:ibadatpro717@gmail.com) |
-| 📞 **Phone / WhatsApp** | +92 328 979 9156 |
-| 💼 **LinkedIn** | [linkedin.com/in/mirzaibadatali](https://www.linkedin.com/in/mirzaibadatali) |
-| 📊 **Kaggle** | [kaggle.com/ibadatali](https://www.kaggle.com/ibadatali) |
-| 🐙 **GitHub** | [github.com/Ibadat-Ali86](https://github.com/Ibadat-Ali86) |
+|:---:|:---:|
+| 📧 **ibadcodes@gmail.com** | 💼 **[linkedin.com/in/mirzaibadatali](https://www.linkedin.com/in/mirzaibadatali)** |
+| 📞 **+92 328 979 9156** | 📊 **[kaggle.com/ibadatali](https://www.kaggle.com/ibadatali)** |
+
+<br/>
+
+**Response time: within 24 hours**
+
+<br/>
+
+*If any project here was useful to you — a ⭐ on the repo means a lot.*
 
 </div>
 
@@ -310,8 +440,6 @@ I'm open to **full-time roles**, **contract/freelance projects**, and **research
 
 <div align="center">
 
-*"I don't just build models — I build systems. The difference is everything."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d7a,50:0d1b4b,100:050510&height=120&section=footer&text=Built+for+production.+Designed+for+impact.&fontSize=16&fontColor=7DD3FC&fontAlignY=55" alt="footer"/>
 
 </div>
