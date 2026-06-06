@@ -117,7 +117,7 @@ Tech: React 18 · FastAPI · Gemini 2.0 Flash · PostgreSQL (Neon) · Docker · 
 ```
 
 [![Live Demo](https://img.shields.io/badge/▶_Live-carevision--chw.vercel.app-22c55e?style=flat-square&logo=vercel)](https://carevision-chw.vercel.app/landing)
-[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/01-carevision-clinical-ai.md)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-carevision-181717?style=flat-square&logo=github)](https://github.com/Ibadat-Ali86/carevision)
 
 > **5 AI clinical modules** · **15+ languages** · JWT + Argon2id security · Deployed: Vercel + Railway + Neon
 
@@ -135,7 +135,7 @@ Tech: PyTorch 2.2 · SHAP DeepExplainer · PuLP (MILP) · FastAPI · Next.js 15 
 ```
 
 [![Live Demo](https://img.shields.io/badge/▶_Live-sentinel--iq--nasa.vercel.app-22c55e?style=flat-square&logo=vercel)](https://sentinel-iq-nasa.vercel.app)
-[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/02-sentineliq-predictive-maintenance.md)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-sentinel--iq--cmpass-181717?style=flat-square&logo=github)](https://github.com/Ibadat-Ali86/sentinel-iq-cmpass-nasa-rul-prediction)
 
 > **RMSE 14.37 cycles** on NASA C-MAPSS benchmark · **$38,200 (30.6%) cost savings** · ~140ms inference P95
 
@@ -153,7 +153,7 @@ Tech: XGBoost 2.0 · Prophet · SARIMA · TensorFlow LSTM · FastAPI · React 19
 ```
 
 [![Live Demo](https://img.shields.io/badge/▶_Live-HuggingFace_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/ibadatali/walmart-sales-forecasting-saas)
-[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/03-walmart-forecastai-saas.md)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-walmart--forecasting--saas-181717?style=flat-square&logo=github)](https://github.com/Ibadat-Ali86/data-science-portfolio/tree/369f1bf5a8bff0075118bc282191aea03e6d1683/projects/03-walmart-sales-forecasting-saas)
 
 > **98.77% accuracy** · **96% improvement** over baseline · 421,570 records · What-if scenario simulator
 
@@ -170,7 +170,7 @@ Tech: Gemini 2.0 Flash (multimodal) · Flask · Chart.js 4.4 · jsPDF · Python 
       Structured JSON prompting · Clinical reasoning trace architecture
 ```
 
-[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/04-vital-link-medical-diagnosis.md)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-multimodal--medical--diagnosis-181717?style=flat-square&logo=github)](https://github.com/Ibadat-Ali86/data-science-portfolio/tree/369f1bf5a8bff0075118bc282191aea03e6d1683/projects/02-multimodal-medical-diagnosis-ai-gemini)
 
 > **3-modality fusion** (X-ray + lung audio + vitals) · 8 clinical condition presets · Risk stratification · *Google Gemini Hackathon 2026*
 
@@ -188,7 +188,7 @@ Tech: scikit-learn 1.3 · Random Forest · Gradient Boosting · pandas 2.0 · Fl
 ```
 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Full_Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ibadatali/pakistan-ecommerce-price-reggression)
-[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/05-pakistan-ecommerce-price-prediction.md)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-pakistan--ecommerce--price-181717?style=flat-square&logo=github)](https://github.com/Ibadat-Ali86/data-science-portfolio/tree/369f1bf5a8bff0075118bc282191aea03e6d1683/projects/01-pakistan-ecommerce-price-prediction)
 
 > **R² = 0.92** · 90% accuracy on premium SKUs · 579K+ transactions · Production Flask deployment
 
@@ -205,7 +205,7 @@ Tech: Next.js 15 App Router · TypeScript 5 · Prisma ORM · PostgreSQL · Tailw
       Server Components · Server Actions · PDF workflows · Multi-role RBAC
 ```
 
-[![Docs](https://img.shields.io/badge/Project_Deep--Dive-→-0ea5e9?style=flat-square)](./projects/06-evershine-academy-lms.md)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-evershine__lms-181717?style=flat-square&logo=github)](https://github.com/Ibadat-Ali86/evershine_lms)
 
 > 6 role-specific dashboards · Fee + attendance + academic modules · Self-hostable · PDF report generation
 
