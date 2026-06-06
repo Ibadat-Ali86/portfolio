@@ -158,7 +158,21 @@ Tech: XGBoost 2.0 · Prophet · SARIMA · TensorFlow LSTM · FastAPI · React 19
 > **98.77% accuracy** · **96% improvement** over baseline · 421,570 records · What-if scenario simulator
 
 ---
+### 🛍️ Demand-Sales-Walmart-Forecasting &nbsp;`Retail Forecasting · Demand Planning · Time Series`
 
+**Business Problem:** Walmart sales forecasting requires SKU-level demand accuracy across promotions, holidays, and seasonal demand shifts. Fixed-window heuristics and single-model pipelines miss cross-SKU dependencies and event-driven demand surges.
+
+**What I built:** A production-grade demand forecasting repository for Walmart sales that integrates feature-rich time series modeling, ensemble learning, and automated data ingestion. The solution supports weekly forecast execution, error-tracking, and model explainability for inventory planning.
+
+```
+Tech: Python · pandas · Prophet · XGBoost · TensorFlow · FastAPI · Streamlit · GitHub Actions · CSV pipeline automation
+```
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Demand--Sales--Walmart--Forecasting-181717?style=flat-square&logo=github)](https://github.com/Ibadat-Ali86/Demand-Sales-Walmart-Forecasting)
+
+> SKU-level Walmart demand forecasting · event-aware seasonality · forecast pipeline for retail replenishment
+
+---
 ### 🔬 VITAL-LINK &nbsp;`Multimodal AI · Medical Diagnosis · LLM Fusion`
 
 **Business Problem:** Single-modality diagnostic AI misses clinical correlations. A physician correlates X-ray findings with breath sounds and vital signs simultaneously — AI tools haven't caught up.
